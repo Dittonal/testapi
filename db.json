@@ -7,5 +7,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "goods":[
+        {
+        "id":1,
+        "name":"clothes",
+        "price":300,
+        "number":3
+    },
+    {
+        "id":2,
+        "name":"shirt",
+        "price":100,
+        "number":1
+    },
+    {
+        "id":3,
+        "name":"black_shirt",
+        "price":130,
+        "number":5
+    },
+    {
+        "id":4,
+        "name":"pants",
+        "price":100,
+        "number":1
+    }
+  ]
 }
