@@ -1,5 +1,5 @@
-[
-    {"accountName":"zhang1","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"农户身份证：130133193005060324","loginIp":"113.142.79.125","operationTime":"2022/10/01 11:44:23"},
+{
+    "logs":[{"accountName":"zhang1","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"农户身份证：130133193005060324","loginIp":"113.142.79.125","operationTime":"2022/10/01 11:44:23"},
     {"accountName":"zhang2","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"角色名称：普通用户A","loginIp":"113.142.79.125","operationTime":"2022/10/02 12:44:23"},
     {"accountName":"zhang3","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"投保清单号：342343242323423423","loginIp":"113.142.79.125","operationTime":"2022/10/03 13:44:23"},
     {"accountName":"zhang4","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"地块编号：234234324234242","loginIp":"113.142.79.125","operationTime":"2022/10/04 14:41:23"},
@@ -138,6 +138,4 @@
     {"accountName":"zhan9","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"投保清单号：342343242323423423","loginIp":"113.142.79.125","operationTime":"2022/10/02 13:44:23"},
     {"accountName":"zhan","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"农户身份证：130133193005060324","loginIp":"113.142.79.125","operationTime":"2022/10/02 13:44:23"},
     {"accountName":"zhan","platform":"web","platformFunction":"角色管理","operationFunction":"添加保单","operationContent":"角色名称：普通用户A","loginIp":"113.142.79.125","operationTime":"2022/10/02 13:44:23"}
-    
-
-]
+    ]}
