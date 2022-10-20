@@ -31,9 +31,9 @@
         "check":false
     },
     {"id":4,"name":"pants","price":100,"number":1,"check":false},
-    {"id":4,"name":"pants","price":100,"number":1,"check":false},
-    {"id":4,"name":"pants","price":100,"number":1,"check":false},
-    {"id":4,"name":"pants","price":100,"number":1,"check":false},
-    {"id":4,"name":"pants","price":100,"number":1,"check":false}
+    {"id":5,"name":"pants","price":100,"number":1,"check":false},
+    {"id":6,"name":"pants","price":100,"number":1,"check":false},
+    {"id":7,"name":"pants","price":100,"number":1,"check":false},
+    {"id":8,"name":"pants","price":100,"number":1,"check":false}
   ]
 }
